@@ -40,6 +40,9 @@
 **Backend**: Node.js, Express
 
 
+**Templating**: EJS
+
+
 **Database**: Mongo DB
 
 
